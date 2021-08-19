@@ -2,6 +2,9 @@
 
 Some samples of simulations described in ''Nonlinear Residual Echo Suppression Based on Dual-Stream DPRNN''
 
+## TODO:
+Implementation of Dual-Stream DPRNN (paper: Nonlinear Residual Echo Suppression Based on Dual-Stream DPRNN) will be public within a month.
+
 simulations\
 ├─ speech\
 │&ensp; 000000_nearend.wav &emsp; # the clean near-end signal\
